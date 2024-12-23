@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi👋, I'm Gonzalo</h1>
-<h4 align="center">Full Stack Web Developer. Check my <a href="https://www.gonzalorossi.dev" target="_blank">portfolio</a> for more</h4>
+<h4 align="center">Web Developer.</h4>
 </div>
 
 <div align="center">
